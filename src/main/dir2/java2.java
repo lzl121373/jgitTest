@@ -1,4 +1,4 @@
-package dir1;
+package dir2;
 
 public class java2{
 
